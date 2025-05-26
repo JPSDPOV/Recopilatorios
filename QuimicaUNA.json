@@ -3,19 +3,19 @@
         "Unidad 1: Materia y Energía": {
             "questions": [
                 {
-                    "question": "Un hombre camina \\(3\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el oeste, luego 3 m hacia el sur, a continuación 5 m hacia el este y finalmente \\(2\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el este, el desplazamiento resultante del hombre, es en m:",
-                    "year": "2003",
+                    "question": "Corresponde a un proceso físico que libera la mayor cantidad de calor:",
+                    "year": "2016",
                     "imageURL": "",
                     "options": [
-                        "\\(2\\sqrt{5} \\)",
-                        "\\(2\\sqrt{2} \\)",
-                        "\\(5\\sqrt{2} \\)",
-                        "\\(4\\sqrt{2} \\)",
-                        "\\(5\\sqrt{5} \\)"
+                        "Solidificación",
+                        "Ebullición",
+                        "Combustión",
+                        "Deposición",
+                        "Fusión"
                     ],
-                    "answer": "a",
-                    "explicacion": "",
-                    "imageURLans": "https://drive.google.com/file/d/1FWw_16AtyqfDEv_ZZgYiwcrc4bChDfBc/view?usp=drive_link"
+                    "answer": "",
+                    "explicacion": "Solidificación (A): Libera calor (exotérmico) al pasar de líquido a sólido, pero no libera tanta energía como la Deposición. <br>Ebullición (B): Es endotérmico (absorbe calor al pasar de líquido a gas). <br>Combustión (C): Aunque libera mucho calor, es un proceso químico (no físico). <br>Deposición (D): Gas → sólido, libera más calor que el de solidificación (ejemplo: vapor de agua → hielo). <br>Fusión (E): Endotérmico (absorbe calor al pasar de sólido a líquido). <br>La deposición, al implicar un cambio de fase con mayor energía (sublimación inversa), libera más calor que la solidificación.",
+                    "imageURLans": ""
                 },
                 {
                     "question": "Tres fuerzas de igual intensidad forman un sistema con resultante nula. El ángulo formado entre ellas, es:",
