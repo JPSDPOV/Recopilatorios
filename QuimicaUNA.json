@@ -104,7 +104,7 @@
                         "Agua y etanol (C<sub>2</sub>H<sub>5</sub>OH)"
                     ],
                     "answer": "d",
-                    "explicacion": "El iodo es soluble en solventes no polares como el hexano (C<sub>6</sub>H<sub>6</sub>), mientras que el cloruro de sodio es soluble en agua (polar). La opción D combina correctamente estos pares.",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -119,7 +119,7 @@
                         "La concentración de soluto no disuelto es menor a la constante de solubilidad."
                     ],
                     "answer": "a",
-                    "explicacion": "Una solución sobresaturada contiene más soluto disuelto (A) que el permitido por su solubilidad en condiciones de equilibrio. Esto se logra alterando condiciones como temperatura y luego enfriando lentamente.",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -134,7 +134,7 @@
                         "El punto de ebullición de la solución no varía."
                     ],
                     "answer": "c",
-                    "explicacion": "Al añadir solvente (C), la concentración molar disminuye porque el volumen total aumenta mientras los moles de soluto se mantienen constantes. La solución dejará de estar sobresaturada.",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -149,7 +149,7 @@
                         "solvente-solvente y libera calor."
                     ],
                     "answer": "d",
-                    "explicacion": "Una solución exotérmica (D) libera calor durante el proceso de solvatación, donde las moléculas de solvente rodean al soluto (interacción soluto-solvente).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -164,7 +164,7 @@
                         "El volumen de la solución."
                     ],
                     "answer": "d",
-                    "explicacion": "En una dilución (D), el número de partículas de soluto no cambia (solo se dispersan en más solvente). Las otras opciones son verdaderas: la concentración disminuye, se añade solvente y el volumen aumenta.",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -179,7 +179,7 @@
                         "espuma."
                     ],
                     "answer": "a",
-                    "explicacion": "Un gel (A) es un coloide donde partículas sólidas forman una red en un líquido. La mayonesa es un ejemplo (gotas de aceite en agua estabilizadas por lecitina).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -194,7 +194,7 @@
                         "1,41 g"
                     ],
                     "answer": "c",
-                    "explicacion": "Moles = M × V = 0.47 × 0.24 = 0.1128 mol. Masa = moles × PM (58.5 g/mol) = 6.60 g (C).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -209,7 +209,7 @@
                         "7,45 g"
                     ],
                     "answer": "d",
-                    "explicacion": "%p/v = (masa soluto/volumen solución)×100. Masa = (4.3 × 150)/100 = 6.45 g (D).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -224,7 +224,7 @@
                         "2,88"
                     ],
                     "answer": "b",
-                    "explicacion": "Molalidad = moles soluto/kg solvente. Moles = 0.3 × 0.2 = 0.06 mol. Masa = moles × PM (98 g/mol) = 5.88 g (B).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -239,7 +239,7 @@
                         "6,3x10<sup>-2</sup> M"
                     ],
                     "answer": "e",
-                    "explicacion": "Moles = 2.5 g / 158 g/mol = 0.0158 mol. Molaridad = 0.0158/0.25 L = 0.063 M (E). %p/v = (2.5/250)×100 = 1% (no es opción).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -254,7 +254,7 @@
                         "0,3188 N"
                     ],
                     "answer": "a",
-                    "explicacion": "Moles = 6.6 g / 138 g/mol = 0.0478 mol. Equivalente = 2 (por CO<sub>3</sub><sup>2-</sup>). Normalidad = (0.0478 × 2)/0.15 L = 0.6377 N (A).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -269,7 +269,7 @@
                         "0,1278 N"
                     ],
                     "answer": "c",
-                    "explicacion": "1.15 g Al en 100 mL solución = 0.0426 mol Al. Equivalente = 3 (Al<sup>3+</sup>). Normalidad = (0.0426 × 3)/0.1 L = 1.2778 N (C).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -284,7 +284,7 @@
                         "4,76"
                     ],
                     "answer": "b",
-                    "explicacion": "Moles Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> = 40.7 g / 400 g/mol = 0.10175 mol. Moles Fe<sup>3+</sup> = 0.2035 mol. Masa Fe<sup>3+</sup> = 0.2035 × 56 = 11.4 g en 120 mL = 9.5 g/dL (C).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -299,7 +299,7 @@
                         "254,71 ml"
                     ],
                     "answer": "d",
-                    "explicacion": "Masa HCl conc. = 175 mL × 1.14 g/mL = 199.5 g. Masa HCl puro = 199.5 × 0.37 = 73.815 g. Masa sol. diluida = 73.815 g / 0.18 = 410.08 g. Masa agua añadida = 410.08 - 199.5 = 210.58 g ≈ 210.58 mL (D).",
+                    "explicacion": "",
                     "imageURLans": ""
                 },
                 {
@@ -314,7 +314,427 @@
                         "594,4 mEq"
                     ],
                     "answer": "a",
-                    "explicacion": "mEq KCl = 0.567 N × 400 mL = 226.8 mEq. mEq K<sub>2</sub>SO<sub>4</sub> = (3.5 g/100 mL × 350 mL × 2 eq/mol)/174 g/mol × 1000 = 281.6 mEq. Total = 508.4 mEq (A).",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La masa del nitrato de plomo (II) por litro de solución necesario para preparar una solución que contenga 7,69 mg/mL de iones nitrato, es: (Pb= 207; N= 14; O= 16)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "7,690 g",
+                        "20,53 g",
+                        "769,0 g",
+                        "41,06 g",
+                        "165,5 g"
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se sabe que en 346 mL de solución de ácido nítrico de densidad d= 1,09 g/mL contiene 128,3 g de soluto, el porcentaje (P/P) de la solución, es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "37,1 %",
+                        "40,3 %",
+                        "34,0 %",
+                        "31,2 %",
+                        "28,9 %"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La cantidad de disolvente que debe agregarse a 50 mL de solución de cloruro de potasio 0,5 M para obtener 0,32 M en iones potasio, es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "78 mL",
+                        "50 mL",
+                        "35 mL",
+                        "28 mL",
+                        "12 mL"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los moles de aniones presentes en la mezcla de 34 g de sulfato de sodio y 300 mL de sulfato de aluminio 0,987M es: (Al= 27; S= 32; O= 16; Na= 23)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "1,071 moles",
+                        "2,255 moles",
+                        "0,535 moles",
+                        "3,769 moles",
+                        "1,128 moles"
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los miliEq/L que corresponden a una solución de carbonato de sodio a 4,6 % (p/v), es: (PA: Na= 23; C= 12; O= 16)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "0,4340",
+                        "867,92",
+                        "433,96",
+                        "216,98",
+                        "0,8679"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se toma 3,5 mL de una solución de ácido sulfúrico al 40% (p/p) y d= 1,34 g/mL, el mismo se diluye con 45 mL de agua, la normalidad de la solución resultante es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "0,3947 N",
+                        "1,5787 N",
+                        "0,8508 N",
+                        "0,4254 N",
+                        "0,7894 N"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Una disolución de nitrato de potasio al 15 % liene una densidad de 1,24 g/ml, si se toman 150 mL de solución y le añadimos 3,45 g de nitrato de potasio, el % en peso de la nueva disolución es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "16,55 %",
+                        "18,50 %",
+                        "1,850 %",
+                        "15,00 %",
+                        "20,63 %"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La molalidad de una solución de ácido acético al 3,5 % (p/p) es: (PA: C= 12, O= 16)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "0,302 m",
+                        "0,907 m",
+                        "0,604 m",
+                        "0,151 m",
+                        "0,006 m"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El peso equivalente en gramos del cloruro de estaño (II), cuando pasa a cloruro de estaño (IV), es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "189,6",
+                        "47,40",
+                        "23,70",
+                        "118,5",
+                        "94,8"
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se tiene 1 molar de ácido clorhídrico y 1 molar de ácido sulfúrico con relación a lo citado es INCORRECTO decir que: (PA: CI=35,5; S= 32, O= 16)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "El ácido sulfúrico en solución libera 2 moles de protones.",
+                        "La cantidad de moléculas presentes en ambas soluciones son iguales.",
+                        "El porcentaje p/v es mayor en el ácido sulfúrico que en el ácido clorhídrico.",
+                        "La concentración molar de protones es igual en ambas soluciones.",
+                        "La densidad de la solución de ácido clorhídrico es menor que la del ácido sulfúrico."
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se tiene una solución de sulfato de cobre (II) al 8,7 % (p/v), de d= 1,09 g/mL, la concentración en (%p/p). es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "9,48",
+                        "8,70",
+                        "7,80",
+                        "7,98",
+                        "6,78"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La constante de solubilidad del cloruro de potasio en agua es de 34,4 g/100mL de solución a 25°C, una solución saturada de cloruro de potasio es: (PA: K= 39, CI= 35,5)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "300 ml de solución 4,5% (p/v)",
+                        "150 ml de solución al 4,6174 M",
+                        "250 ml de solución al 1,539 N",
+                        "400 ml de solución al 8,98 % (p/v)",
+                        "150 ml de solución al 3,0783 M"
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se disuelven 250 g de sacarosa (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) en 3 litros de agua (d= 1g/ml), la temperatura de congelación de la disolución será: (Kc= 1,86 °C/m; PA: C= 12, O= 16, H= 1;Teb del H<sub>2</sub>O= 0 °C)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "-0,453 °C",
+                        "0,453 °C",
+                        "-0,86 °C",
+                        "-4,53 °C",
+                        "4,53 °C"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los miliequivalentes de ion potasio que están contenidos en 350 ml de solución de sulfato de potasio 3,4% (p/v), es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "39,08",
+                        "136,8",
+                        "273,6",
+                        "68,39",
+                        "0,196"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La solución que contiene 234,5 milimoles de iones de sodio es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "300 ml de sulfato de sodio al 0,7817 M.",
+                        "100 ml de cloruro de sodio al 0,7817 M.",
+                        "150 ml de sulfato de sodio al 0,7817 M.",
+                        "200 ml de hidróxido de sodio al 0,7817 M.",
+                        "250 ml de carbonato de sodio al 0,7817 M."
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se agregan 250 ml de agua a 800 ml de una solución de fosfato de sodio de una concentración al 0,5 M, la concentración normal de la disolución resultante es: (PA: Na= 23, O= 16, P= 31)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "1,60 N",
+                        "0,76 N",
+                        "1,14 N",
+                        "0,38 N",
+                        "0,50 N"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se mezclan 200 ml de solución de sulfato de potasio al 0,30 M con 300 ml de solución de ioduro de potasio al 4,6% (p/v), los miliequivalentes de potasio son: (PA: K= 39, O= 16, S= 32, I= 127)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "286,26",
+                        "203,13",
+                        "406,26",
+                        "143,13",
+                        "101,56"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los gramos de ácido yodhídrico necesarios para reaccionar con 250 ml de solución de ácido nítrico al 2,5 N, son: (PA: H= 1, I= 127, N= 14, O= 16)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "13,33 g",
+                        "26,67 g",
+                        "40,00 g",
+                        "55,78 g",
+                        "80,00 g"
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Si a 150 ml de disolución de cloruro de calcio al 15 % (p/p) y de una densidad de 1,24 g/ml se le añade 3,45 ml de cloruro de calcio, el %(p/v) formado, suponiendo que el volumen no varía apreciablemente, es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "9,920 %",
+                        "15,00 %",
+                        "20,90 %",
+                        "16,55 %",
+                        "18,50 %"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "5,00 ml de una solución acuosa que contiene 2,12 g de ácido clorhídrico, con una densidad igual a 1,14 g/ml, la concentración %p/p es: (PA: H= 1, CI= 35,5)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "42,4",
+                        "4,24",
+                        "23,3",
+                        "3,72",
+                        "37,2"
+                    ],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se agregan 250 ml de agua a 800 ml de una solución de hidróxido de sodio de concentración 0,5 M, la concentración molar de la dilución: (PA: Na= 23, O= 16, H= 1)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "1,60 M",
+                        "0,76 M",
+                        "0,38 M",
+                        "0,19 M",
+                        "0,50 M"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Al disolver 50 g de una sustancia en 1 litro de agua (d= 1 g/ml) con esto el punto de ebullición del agua es 100,6 °C, el peso fórmula de la sustancia, es: (Ke= 0,52 °C/m, Teb del H<sub>2</sub>O= 100 °C)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "34,3",
+                        "157",
+                        "54,4",
+                        "67,3",
+                        "43,3"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La congelación de una disolución formada al añadir 10 g de un azúcar a 100 mL de agua se produce a -1,55 °C. Si la composición centesimal de dicho azúcar es: 40 % de C, 53,33 % de O, y 6,67 % de H, la fórmula del azúcar, es: Datos: Kc=1,86 °C/m PA: C= 12, H= 1, O= 16",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "C<sub>5</sub>H<sub>12</sub>O<sub>3</sub>",
+                        "C<sub>5</sub>H<sub>10</sub>O<sub>5</sub>",
+                        "C<sub>4</sub>H<sub>8</sub>O<sub>4</sub>",
+                        "C<sub>6</sub>H<sub>10</sub>O<sub>6</sub>",
+                        "C<sub>4</sub>H<sub>10</sub>O<sub>4</sub>"
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Calcula la presión osmótica de una disolución 0,01 M en sacarosa, si la temperatura es de 20 °C",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "0,32 atm.",
+                        "0,32 torr.",
+                        "0,24 atm.",
+                        "0,24 torr.",
+                        "0,12 atm."
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los gramos de fosfato de potasio que son necesarios para preparar 350 ml de solución al 0,28 M, es: (PA: K= 39, P= 31, O= 16)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "2,30 g",
+                        "1,40 g",
+                        "38,6 g",
+                        "8,14 g",
+                        "20,8 g"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los miliequivalentes presentes en la mezcla de 120 mL de una solución de sulfuro de sodio al 4,5 % (p/v), con 120 mL de sulfuro de sodio al,0,54 N, es: (PA: Na= 23, S= 32)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "647 mEq",
+                        "203 mEq",
+                        "1,35 mEq",
+                        "162 mEq",
+                        "232 mEq"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La normalidad de 400 mL una solución de fosfato de potasio al 3,4 % (p/v), es: (PA: K= 39, P= 31, O= 16)",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "1,4434 N",
+                        "0,2406 N",
+                        "0,1203 N",
+                        "0,1604 N",
+                        "0,4811 N"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La masa de soluto en kg contenida en 2 litros de una solución de permanganato de potasio de densidad 1,10 g/mL y concentración porcentual en peso de 40 %, es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "0,88",
+                        "880",
+                        "8,80",
+                        "6,25",
+                        "0,625"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
                     "imageURLans": ""
                 }
             ]
