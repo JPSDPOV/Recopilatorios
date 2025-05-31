@@ -58,38 +58,6 @@
                 }
             ]
         },
-        "Unidad 2: Cinemática": {
-            "subtopics": {
-                "Cinemática Conceptual y Movimiento Uniforme": {
-                    "questions": []
-                },
-                "Movimiento Uniformemente Variado": {
-                    "questions": []
-                },
-                "Tiro Vertical y Caída Libre": {
-                    "questions": []
-                },
-                "Movimiento Parabólico": {
-                    "questions": []
-                },
-                "Movimiento Circular Uniforme": {
-                    "questions": []
-                },
-                "Composición de Movimientos": {
-                    "questions": []
-                }
-            }
-        },
-        "Unidad 3: Dinámica": {
-            "subtopics": {
-                "Dinámica de los Cuerpos": {
-                    "questions": []
-                },
-                "Trabajo, Energía y Potencia": {
-                    "questions": []
-                }
-            }
-        },
         "Unidad 7: Disoluciones y sus propiedades": {
             "questions": [
                 {
@@ -99,8 +67,8 @@
                     "options": [
                         "Benceno (C<sub>6</sub>H<sub>6</sub>) y octano (C<sub>8</sub>H<sub>18</sub>)",
                         "Agua y amoniaco",
-                        "Hexano (C<sub>6</sub>H<sub>6</sub>) y benceno (C<sub>6</sub>H<sub>6</sub>)",
-                        "Hexano (C<sub>6</sub>H<sub>6</sub>) y agua",
+                        "Hexano (C<sub>6</sub>H<sub>14</sub>) y benceno (C<sub>6</sub>H<sub>6</sub>)",
+                        "Hexano (C<sub>6</sub>H<sub>14</sub>) y agua",
                         "Agua y etanol (C<sub>2</sub>H<sub>5</sub>OH)"
                     ],
                     "answer": "d",
@@ -161,7 +129,7 @@
                         "Se produce al agregar más disolvente a la solución inicial.",
                         "El número de moles del soluto permanece constante.",
                         "Cambia el número total de partículas de soluto.",
-                        "El volumen de la solución."
+                        "El volumen de la solución aumenta."
                     ],
                     "answer": "d",
                     "explicacion": "",
@@ -184,7 +152,7 @@
                 },
                 {
                     "question": "Los gramos de cloruro de sodio que son necesarios para preparar 240 mL de solución al 0,47M, es: (PA: Na= 23, Cl= 35,5)",
-                    "year": "",
+                    "year": "2022 PreCPAM",
                     "imageURL": "",
                     "options": [
                         "3,52 g",
@@ -198,8 +166,23 @@
                     "imageURLans": ""
                 },
                 {
+                    "question": "La concentración porcentual de una solución que se prepara disolviendo 38 gramos de sulfato de potasio hasta completar 500 mL de solución, es:",
+                    "year": "2022 PreCPAM",
+                    "imageURL": "",
+                    "options": [
+                        "4,8 %",
+                        "9,6 %",
+                        "2,5 %",
+                        "7,6 %",
+                        "5,0 %"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "Los gramos de hidróxido de sodio que se requieren para 150 ml de una solución de hidróxido de sodio al 4,3 % (p/v), es:",
-                    "year": "",
+                    "year": "2022 PreCPAM",
                     "imageURL": "",
                     "options": [
                         "2,45 g",
@@ -209,6 +192,21 @@
                         "7,45 g"
                     ],
                     "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La molaridad de la glucosa (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) en sangre, si la concentración en la misma es de 90 mg/100 mL, es: (PA: C= 12, H= 1, O= 16):",
+                    "year": "2022 PreCPAM",
+                    "imageURL": "",
+                    "options": [
+                        "5,0",
+                        "2,63.10<sup>-3</sup>",
+                        "2,63",
+                        "2,5",
+                        "5.10<sup>-3</sup>"
+                    ],
+                    "answer": "e",
                     "explicacion": "",
                     "imageURLans": ""
                 },
@@ -244,7 +242,7 @@
                 },
                 {
                     "question": "La normalidad de una solución que se prepara disolviendo 6,6 g de carbonato de potasio hasta obtener 150 mL de solución es: (PA: K= 39, C= 12, O= 16)",
-                    "year": "",
+                    "year": "2016 Final, 2017 Final, 2018 1P, 2018 Final",
                     "imageURL": "",
                     "options": [
                         "0,6377 N",
@@ -284,6 +282,21 @@
                         "4,76"
                     ],
                     "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Al reaccionar 30 mL de solución de ácido fosfórico de d= 1,13 g/ml con 45 mL de solución de hidróxido de sodio 0,34 M, la concentración p/p del ácido fosfórico es: (PA: P= 31, O= 16, H= 1, Na= 23)",
+                    "year": "2017 1P, 2018 1P, 2022 1P, 2022 1P ASU",
+                    "imageURL": "",
+                    "options": [
+                        "14,7 %",
+                        "3,99 %",
+                        "39,9 %",
+                        "1,59 %",
+                        "1,47 %"
+                    ],
+                    "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
                 },
@@ -363,7 +376,7 @@
                     "imageURLans": ""
                 },
                 {
-                    "question": "Los moles de aniones presentes en la mezcla de 34 g de sulfato de sodio y 300 mL de sulfato de aluminio 0,987M es: (Al= 27; S= 32; O= 16; Na= 23)",
+                    "question": "Los moles de aniones presentes en la mezcla de 34 g de sulfato de sodio y 300 mL de sulfato de aluminio 0,987 M es: (Al= 27; S= 32; O= 16; Na= 23)",
                     "year": "",
                     "imageURL": "",
                     "options": [
@@ -469,7 +482,7 @@
                 },
                 {
                     "question": "Se tiene una solución de sulfato de cobre (II) al 8,7 % (p/v), de d= 1,09 g/mL, la concentración en (%p/p). es:",
-                    "year": "",
+                    "year": "2018 1P, 2018 Final, 2019 Final",
                     "imageURL": "",
                     "options": [
                         "9,48",
@@ -633,6 +646,51 @@
                     "imageURLans": ""
                 },
                 {
+                    "question": "Se mezclan 300 ml de sulfato de potasio al 1,35 M y 150 ml de sulfato de potasio al 5,6 % (p/v), la cantidad de miliequivalentes de potasio de la mezcla es: (PA: K= 39, S= 32, O= 16, H= 1)",
+                    "year": "2019 1P, 2022 1P",
+                    "imageURL": "",
+                    "options": [
+                        "906,55 mEq",
+                        "2014,6 mEq",
+                        "464,15 mEq",
+                        "1031,5 mEq",
+                        "405,32 mEq"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La concentración molar que se obtiene al diluir 30 mL de solución de ácido sulfúrico al 5,67 M con agua hasta completar 240 mL de solución, es:",
+                    "year": "2022 PreCPAM",
+                    "imageURL": "",
+                    "options": [
+                        "0,3544 M",
+                        "1,4175 M",
+                        "0,4087 M",
+                        "0,7087 M",
+                        "0,1078 M"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La molaridad de una solución que se prepara disolviendo 16,77 gramos de carbonato de potasio hasta completar 450 mL de solución, es: (PA: K= 39, C= 12, O= 16)",
+                    "year": "2022 PreCPAM",
+                    "imageURL": "",
+                    "options": [
+                        "0,39 M",
+                        "0,78 M",
+                        "0,19 M",
+                        "0,54 M",
+                        "0,27 M"
+                    ],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "Al disolver 50 g de una sustancia en 1 litro de agua (d= 1 g/ml) con esto el punto de ebullición del agua es 100,6 °C, el peso fórmula de la sustancia, es: (Ke= 0,52 °C/m, Teb del H<sub>2</sub>O= 100 °C)",
                     "year": "",
                     "imageURL": "",
@@ -679,7 +737,7 @@
                 },
                 {
                     "question": "Los gramos de fosfato de potasio que son necesarios para preparar 350 ml de solución al 0,28 M, es: (PA: K= 39, P= 31, O= 16)",
-                    "year": "",
+                    "year": "2022 PreCPAM",
                     "imageURL": "",
                     "options": [
                         "2,30 g",
@@ -688,7 +746,7 @@
                         "8,14 g",
                         "20,8 g"
                     ],
-                    "answer": "d",
+                    "answer": "e",
                     "explicacion": "",
                     "imageURLans": ""
                 },
